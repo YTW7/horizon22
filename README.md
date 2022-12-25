@@ -13,7 +13,7 @@
 # Tech Stack Used: 
 **NextJS, Rust, Anchor Framework, TailwindCSS, Solana and Replit.**
 # Github Repository Link:
-**https://github.com/YTW7/prepUPSC_horizon22**
+**https://github.com/YTW7/horizon22**
 # Video Link Explaining the Project and working: 
 **https://youtu.be/FuZqqLM03h8**
 # Prize Tracks Covered: 
